@@ -3,6 +3,8 @@ An ascii animation in terminal that shows rickroll
 
 in order to make this work you need to install pillow:
 
+https://pypi.org/project/pillow/
+
 pip install pillow
 
 Made by: ChatGPT
