@@ -1,4 +1,4 @@
-rickrollAI
+#rickrollAI
 
 An ASCII animation in the terminal that shows a Rickroll.
 
