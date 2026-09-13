@@ -1,5 +1,3 @@
-#rickrollAI
-
 An ASCII animation in the terminal that shows a Rickroll.
 
 To make this work, you need to install Pillow:
